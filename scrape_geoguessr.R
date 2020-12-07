@@ -11,7 +11,7 @@
 
 #Step 2: fill out the working directory (where the challenge csv file is located)
 
-working_directory <- "C:/My_file_location"
+working_directory <- "C:/My_folder_location"
 
 #Step 3: fill out the name of the challenge csv
 #The challenge csv should be a comma delimited file with two columns
