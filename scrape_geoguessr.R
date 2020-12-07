@@ -2,11 +2,9 @@
 
 #Note for first time use: If not already installed, the script will try to install 4 packages from CRAN (starting on line 35)
 
-#You need to be logged in in order to view Challenge data
-
-#Step 1; pass mail and password to mail and password variables.
+#Step 1; pass geoguessr account info to mail and password variables.
 #WARNING: IT IS NOT ADVISABLE TO WRITE DOWN PASSWORDS IN SAVED DOCUMENTS! 
-#It is best to assign the  e-mail and password variables in the console! 
+#It is best to assign the  e-mail and password variables in the Rstudio console! 
 
 #mail <- "example@example.com"
 #password <- "password123"
